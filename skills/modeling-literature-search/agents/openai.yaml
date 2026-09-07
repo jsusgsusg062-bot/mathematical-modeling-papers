@@ -1,0 +1,4 @@
+interface:
+  display_name: "数模文献检索教练"
+  short_description: "拆解题意并逐轮设计知网检索与筛选策略，由你操作并反馈结果"
+  default_prompt: "请用 $modeling-literature-search 拆解这道题，给我当前一轮的知网检索方案。"
