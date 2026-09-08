@@ -1,4 +1,4 @@
 interface:
   display_name: "数模论文拆解"
-  short_description: "从论文原文还原建模与求解过程，核对效果证据并分析可借鉴之处"
-  default_prompt: "请用 $modeling-paper-dissection 拆解这篇论文，先讲整体思路，再解释关键方法和效果依据。"
+  short_description: "速读或精读数模论文，讲清研究内容、模型分工、改进点及其效果证据"
+  default_prompt: "请用 $modeling-paper-dissection 速读这篇论文，讲清它研究什么、模型如何分工、改了哪里及效果依据。"
